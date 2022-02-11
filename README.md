@@ -22,4 +22,4 @@ Product Development: Fei Liu.
 Software Engineering: Stephanie Harris, Carl Licata, Raby Yuson.  
 Video Production: Lauren Feeney, Stuart Harmon, Travis Mannon.  
 Map Production: Akil Harris, Fei Liu.  
-Research: Paul W. Smith, Truc Nguyen, Holly DeMuth
+Research: Paul W. Smith, Truc Nguyen, Holly DeMuth.
